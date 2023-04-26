@@ -1,4 +1,4 @@
-# Debug_udp_VOFA-
+# Debug_udp_VOFA
 
 ### 功能
 通过udp发送数据，在上位机中的VOFA+软件中可视化数据
